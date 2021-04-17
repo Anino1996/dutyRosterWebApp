@@ -1,0 +1,5 @@
+Members.json
+__pycache__
+House_members.db
+email_sender.py
+.DS_Store
